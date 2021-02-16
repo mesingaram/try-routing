@@ -1,12 +1,6 @@
 import React from 'react';
 import '../App.css';
 
-function Blog() {
-  return (
-    <div>
-      <h1>Blog</h1>
-    </div>
-  );
-}
+const Blog = () => <h1>Blog</h1>
 
 export default Blog;

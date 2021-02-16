@@ -1,12 +1,6 @@
 import React from 'react';
 import '../App.css';
 
-function New_Patient() {
-  return (
-    <div>
-      <h1>New Patient Information</h1>
-    </div>
-  );
-}
+const New_Patient = () => <h1>New Patient</h1>
 
 export default New_Patient;

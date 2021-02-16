@@ -1,12 +1,6 @@
 import React from 'react';
 import '../App.css';
 
-function Therapy_Serivices() {
-  return (
-    <div>
-      <h1>Therapy Services</h1>
-    </div>
-  );
-}
+const Therapy_Services = () => <h1>Therapy Services</h1>
 
-export default Therapy_Serivices;
+export default Therapy_Services;

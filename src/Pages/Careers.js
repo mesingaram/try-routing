@@ -1,12 +1,6 @@
 import React from 'react';
 import '../App.css';
 
-function Careers() {
-  return (
-    <div>
-      <h1>Careers</h1>
-    </div>
-  );
-}
+const Careers = () => <h1>Careers</h1>
 
 export default Careers;

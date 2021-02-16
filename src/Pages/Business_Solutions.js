@@ -1,12 +1,6 @@
 import React from 'react';
 import '../App.css';
 
-function Business_Solutions() {
-  return (
-    <div>
-      <h1>Business Solutions</h1>
-    </div>
-  );
-}
+const Business_Solutions = () => <h1>Business Solutions</h1>
 
 export default Business_Solutions;
