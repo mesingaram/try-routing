@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
 import Nav from './Nav';
-import About from './About';
-import Blog from './Blog';
-import Business_Solutions from './Business_Solutions';
-import Careers from './Careers';
-import New_Patient from './New_Patient';
-import Therapy_Services from './Therapy_Services';
+import About from './Pages/About';
+import Blog from './Pages/Blog';
+import Business_Solutions from './Pages/Business_Solutions';
+import Careers from './Pages/Careers';
+import New_Patient from './Pages/New_Patient';
+import Therapy_Services from './Pages/Therapy_Services';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 function App() {
